@@ -13,6 +13,8 @@ GLUON_FEATURES := \
         ssid-changer \
         config-mode-geo-location-osm
 
+GLUON_DEPRECATED=full
+
 GLUON_SITE_PACKAGES := \
 	iwinfo \
 	iptables \
